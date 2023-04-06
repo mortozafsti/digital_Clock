@@ -43,7 +43,7 @@ img {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url(./images/bg.jpg) no-repeat center;
+    background: url(./image/edtap.jpg) no-repeat center;
     background-size: cover;
     position: relative;
     color: var(--white);
@@ -54,7 +54,8 @@ img {
     text-transform: uppercase;
     text-align: center;
     width: 50rem;
-    background-color: var(--dark-grey);
+    /* background-color: var(--dark-grey); */
+    background-color: rgb(56, 51, 116);
     padding: 1rem 0;
 }
 
@@ -70,6 +71,10 @@ img {
     background-color: var(--color-primary);
     padding: 2rem 0;
 }
+/* .time {
+    background-color: gr;
+    padding: 2rem 0;
+} */
 a {
     text-decoration: none;
 }
